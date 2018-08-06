@@ -74,4 +74,8 @@
 	<class name="wind_estimation" type="mavros::std_plugins::WindEstimationPlugin" base_class_type="mavros::plugin::PluginBase">
 		<description>Publish wind estimates</description>
 	</class>
+
+	<class name="multijoint_arm" type="mavros::std_plugins::MultijointArmPlugin" base_class_type="mavros::plugin::PluginBase">
+		<description>Publish multijoint arm</description>
+	</class>
 </library>

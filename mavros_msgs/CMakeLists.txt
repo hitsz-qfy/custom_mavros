@@ -44,6 +44,9 @@ add_message_files(
   Waypoint.msg
   WaypointList.msg
   WaypointReached.msg
+
+  #qfy add
+  MultijointArm.msg
 )
 
 add_service_files(
