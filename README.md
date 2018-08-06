@@ -1,3 +1,6 @@
+`common.xml` in MAVLINK NEED TO BE MODIFIED BY ADDING `message`!!!
+=====
+
 MAVROS
 ======
 
